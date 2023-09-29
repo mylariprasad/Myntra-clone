@@ -8,6 +8,6 @@ A clone of the popular online fashion store Myntra, built using HTML, CSS, and J
 Check out the live demo of the project: 
 
 # Technologies Used
-#### HTML: Markup language used for structuring the web pages.
-#### CSS: Stylesheets used for designing the user interface and ensuring responsiveness.
-#### JavaScript: Programming language used for interactive and dynamic elements on the website.
+#### <h4>HTML:</h4> Markup language used for structuring the web pages.
+#### <h4>CSS:</h4> Stylesheets used for designing the user interface and ensuring responsiveness.
+#### <h4>JavaScript:</h4> Programming language used for interactive and dynamic elements on the website.
